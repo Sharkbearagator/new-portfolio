@@ -1,5 +1,7 @@
 body{
     background-image: url(https://www.free-and-safe.org/wp-content/uploads/2018/02/blue-white-tech-corporate-motion-background-video-animation-ultra-hd-4k-3840x2160_htggnu5xe_thumbnail-full011.png);
+    display: flex;
+  flex-direction: column;
 }
 .nav{
     background-color: #A7D9F2;
@@ -25,4 +27,5 @@ body{
     text-align: center;
     background-color: #A7D9F2;
     height: 30px;
+    flex-shrink: 0;
 }
