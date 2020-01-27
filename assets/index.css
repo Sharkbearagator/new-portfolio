@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://www.free-and-safe.org/wp-content/uploads/2018/02/blue-white-tech-corporate-motion-background-video-animation-ultra-hd-4k-3840x2160_htggnu5xe_thumbnail-full011.png);
+}
+.nav{
+    background-color: #A7D9F2;
+    
+}
+.nav-link{
+    color: #02577A;
+}
+.img-fluid{
+    height: 700px;
+    width: 700px;
+}
+.jumbotron{
+    background-color: #046292;
+    align-content: center;
+    text-align: center;
+    margin-top: 35px;
+}
+.btn{
+    background-color: #6BAFCF;
+}
+.footer{
+    text-align: center;
+    background-color: #A7D9F2;
+    height: 30px;
+}
