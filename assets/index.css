@@ -1,42 +1,41 @@
-body{
-    background-image: url(https://www.free-and-safe.org/wp-content/uploads/2018/02/blue-white-tech-corporate-motion-background-video-animation-ultra-hd-4k-3840x2160_htggnu5xe_thumbnail-full011.png);
-    display: flex;
+body {
+  background-image: url(https://www.free-and-safe.org/wp-content/uploads/2018/02/blue-white-tech-corporate-motion-background-video-animation-ultra-hd-4k-3840x2160_htggnu5xe_thumbnail-full011.png);
+  display: flex;
   flex-direction: column;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
-.nav{
-    background-color: #A7D9F2;
-    
+.nav {
+  background-color: #a7d9f2;
 }
-.nav-link{
-    color: #02577A;
+.nav-link {
+  color: #02577a;
 }
-.img-fluid{
-    height: 700px;
-    width: 700px;
+.img-fluid {
+  height: 700px;
+  width: 700px;
 }
-.jumbotron{
-    background-color: #046292;
-    align-content: center;
-    text-align: center;
-    margin-top: 35px;
+.jumbotron {
+  background-color: #046292;
+  align-content: center;
+  text-align: center;
+  margin-top: 35px;
 }
-.btn{
-    background-color: #6BAFCF;
+.btn {
+  background-color: #6bafcf;
 }
-.footer{
-    text-align: center;
-    background-color: #A7D9F2;
-    height: 30px;
-    flex-shrink: 0;
+.footer {
+  text-align: center;
+  background-color: #a7d9f2;
+  height: 30px;
+  flex-shrink: 0;
 }
-.card{
-    background-color: #A7D9F2;
-    height: 300px;
+.card {
+  background-color: #a7d9f2;
+  height: 300px;
 }
-a{
-    color: #046292;
+a {
+  color: #046292;
 }
-.card-img-top{
-    height: 150px;
+.card-img-top {
+  height: 150px;
 }
